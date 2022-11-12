@@ -12,7 +12,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-4">
           Soy una programadora web apasionada, motivada y organizada, con
           formación en nutrición, sin embargo mi necesidad de querer mejorar los
           programas desarrollados para la atención de la salud del paciente fue
